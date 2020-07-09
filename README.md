@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hey There 👋
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+I'm Abhee. A Software Developer from Gujarat, India. Currently I am working as a Web Intern at <a href="https://www.creolestudios.com">@Creole Studios</a>
+     <br><br>Contact me on <a href="https://twitter.com/hudaniabhee@gmail.com">Twitter</a> or <a href="mailto:hudaniabhee@gmail.com">Send an Email</a>
+     <br><br>Web: <a href="https://novartus.github.io">Novartus</a>
+  </samp>
+</p>
 <!--
 **Novartus/Novartus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
