@@ -9,7 +9,8 @@ I'm Abhee. A Software Developer from Gujarat, India. Currently I am a Web Intern
      <br><br>Contact me on 💬<a href="https://twitter.com/hudaniabhee@gmail.com">Twitter</a> or 📫<a href="mailto:hudaniabhee@gmail.com">Send an Email</a>
      <br><br>Web: <a href="https://novartus.github.io">Novartus</a>
     <a href="https://dev.to/hudaniabhee">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhee ☕ 's DEV Profile" height="30" width="30">
+     <br>
+  Dev Profile: <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhee ☕ 's DEV Profile" height="30" width="30">
 </a>
   </samp>
 </p>
