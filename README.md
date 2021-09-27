@@ -5,7 +5,7 @@
   <br><br>
   <samp>
 I'm Abhee. A Software Developer from Gujarat, India.
-    - 🔭 I’m working on something saucy :) 
+    - 🔭 I usually work on something saucy :) 
      <br><br>Contact me on 💬<a href="https://twitter.com/hudaniabhee@gmail.com">Twitter</a> or 📫<a href="mailto:hudaniabhee@gmail.com">Send an Email</a>
      <br><br>Web: <a href="https://novartus.github.io">Novartus</a>
     <a href="https://dev.to/hudaniabhee">
