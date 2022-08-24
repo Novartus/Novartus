@@ -1,13 +1,13 @@
 ### Hey There 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="70px">
   <br><br>
   <samp>
 I'm Abhee. A Software Developer from Windsor, ON, Canada.
     <br>
     - 🔭 I usually work on something saucy :) 
-     <br><br>Contact me on 💬<a href="https://twitter.com/hudaniabhee@gmail.com">Twitter</a> or 📫<a href="mailto:hudaniabhee@gmail.com">Send an Email</a>
+     <br><br>Contact me by 📫<a href="mailto:hudaniabhee@gmail.com">Sending an Email</a>
      <br><br>Web: <a href="https://novartus.github.io">Novartus</a>
     <a href="https://dev.to/hudaniabhee">
      <br>
