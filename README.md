@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="70px">
   <br><br>
   <samp>
-I'm Abhee. A Software Developer from Windsor, ON, Canada.
+I'm Abhee. A Developer from Ontario, Canada.
     <br>
     - 🔭 I usually work on something saucy :) 
      <br><br>Contact me by 📫<a href="mailto:hudaniabhee@gmail.com">Sending an Email</a>
